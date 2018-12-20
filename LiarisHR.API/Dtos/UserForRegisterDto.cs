@@ -1,15 +1,19 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
-namespace LiarisHR.API.Models
+namespace LiarisHR.API.Dtos
 {
-    public class User
+    public class UserForRegisterDto
     {
-        public int Id { get; set; }
-        public Business BusinessName { get; set; }
-        public string ProfileImageURL { get; set; }
+        [Required]
+        public object BusinessName { get; set; }
+        [Required]
         public string Email { get; set; }
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }
+
+        [Required]
+        [StringLength(8, MinimumLength=4, ErrorMessage= "You must specifiy a password between 4 & 8 characters.")]
+        public string Password { get; set; }
+        [Required]
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Gender { get; set; }
@@ -19,6 +23,5 @@ namespace LiarisHR.API.Models
         public string State { get; set; }
         public object Skills { get; set; }
         public int PayRate { get; set; }
-        public int VacationHours { get; set; }
     }
 }
