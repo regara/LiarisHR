@@ -1,0 +1,14 @@
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\bin\Debug\netcoreapp2.2\LiarisHR.API.deps.json
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\bin\Debug\netcoreapp2.2\LiarisHR.API.runtimeconfig.json
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\bin\Debug\netcoreapp2.2\LiarisHR.API.runtimeconfig.dev.json
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\bin\Debug\netcoreapp2.2\LiarisHR.API.dll
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\bin\Debug\netcoreapp2.2\LiarisHR.API.pdb
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.csprojAssemblyReference.cache
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.csproj.CoreCompileInputs.cache
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.RazorAssemblyInfo.cache
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.RazorAssemblyInfo.cs
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.AssemblyInfoInputs.cache
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.AssemblyInfo.cs
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.RazorTargetAssemblyInfo.cache
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.dll
+C:\Users\Regara\Desktop\LiarisHR\liarishr.api\obj\Debug\netcoreapp2.2\LiarisHR.API.pdb
