@@ -9,7 +9,7 @@ export interface User {
     hireDate: Date;
     city: string;
     state: string;
-    skills: object;
+    skills: string[];
     payRate: number;
     photoUrl: string;
 }

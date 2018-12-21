@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace LiarisHR.API.Models
 {
@@ -17,7 +18,7 @@ namespace LiarisHR.API.Models
         public DateTime HireDate { get; set; }
         public string City { get; set; }
         public string State { get; set; }
-        public object Skills { get; set; }
+        public string Skills { get; set; }
         public int PayRate { get; set; }
         public int VacationHours { get; set; }
     }
